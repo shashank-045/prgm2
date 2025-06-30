@@ -1,0 +1,7 @@
+<plugin>
+ <grouppId>org.apache.maven.plugins</grouppId>
+ <artifactId>maven-war-plugin</artifactId>
+ <configuration>
+  <webXml>src/main/webapp/WEB-INF/index.jsp</webXml>
+ </configuration>
+</plugin>
